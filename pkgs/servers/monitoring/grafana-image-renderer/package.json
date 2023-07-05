@@ -18,7 +18,7 @@
     "start": "node build/app.js --config=dev.json"
   },
   "dependencies": {
-    "@grpc/grpc-js": "^1.0",
+    "@grpc/grpc-js": "^1.8",
     "@grpc/proto-loader": "^0.5.4",
     "@hapi/boom": "^9.1.0",
     "chokidar": "^3.5.2",
